@@ -31,7 +31,7 @@
 ### 获取代码
 
 ```
-git clone https://github.com/yourusername/telegram-push-bot.git
+git clone https://github.com/64958311/Telegram-Bot-.git
 cd telegram-push-bot
 ```
 
