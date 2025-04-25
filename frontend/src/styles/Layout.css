@@ -1,0 +1,46 @@
+.app-layout {
+    min-height: 100vh;
+  }
+  
+  .app-header {
+    padding: 0 20px;
+    background: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+  }
+  
+  .logo {
+    font-size: 18px;
+    font-weight: bold;
+    color: #1890ff;
+  }
+  
+  .header-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .welcome-text {
+    margin-right: 16px;
+  }
+  
+  .app-sider {
+    background: #fff;
+  }
+  
+  .app-content {
+    margin: 24px 16px;
+    padding: 24px;
+    background: #fff;
+    min-height: 280px;
+  }
+  
+  .loading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }

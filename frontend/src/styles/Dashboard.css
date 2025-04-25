@@ -1,0 +1,38 @@
+.dashboard-container {
+    padding: 0 24px;
+  }
+  
+  .page-title {
+    margin-bottom: 24px;
+  }
+  
+  .stats-row {
+    margin-bottom: 24px;
+  }
+  
+  .table-row {
+    margin-bottom: 24px;
+  }
+  
+  .status-default {
+    color: #d9d9d9;
+  }
+  
+  .status-processing {
+    color: #1890ff;
+  }
+  
+  .status-success {
+    color: #52c41a;
+  }
+  
+  .status-error {
+    color: #f5222d;
+  }
+  
+  .loading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+  }
